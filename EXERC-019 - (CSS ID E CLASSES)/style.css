@@ -1,0 +1,25 @@
+body {
+    background-image: linear-gradient(to right, #34A382, #4DF0BF, white);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: #247059;
+}
+
+h1#principal {
+    text-align: center;
+}
+
+h2 {
+    color: #123D3C;
+}
+
+h2.id {
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    text-indent: 30px;
+}
