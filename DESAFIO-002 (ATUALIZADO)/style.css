@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+div {
+    text-align: center;
+
+}
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+p > a {
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+}
