@@ -30,6 +30,11 @@ h2 {
     color: #034168;
 }
 
+footer {
+    text-align: center;
+    margin-top: 10px;
+}
+
 a {
     text-decoration: none;
 }
