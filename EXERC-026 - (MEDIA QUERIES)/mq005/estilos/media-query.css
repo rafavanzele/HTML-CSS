@@ -10,7 +10,7 @@ Grandes telas: +1200px
 */
 
 @media screen and (min-width: 768px) {
-    i#burger {
+    span#burger {
         display: none;
     }
 
